@@ -56,7 +56,7 @@ const SingleProduct = () => {
                     placeholder="Enter Mpesa No 2547xxxxxxxx"
                     className="form-control mb-3"
                   />
-                  <button className="btn btn-primary w-100">Pay Now</button>
+                  <button className="btn btn-primary w-100">Pay Now 💳</button> 
                 </form>
               </div>
             </div>
